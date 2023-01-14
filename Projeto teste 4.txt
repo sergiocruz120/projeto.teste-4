@@ -1,0 +1,4 @@
+function testando(){
+       console.log('teste')
+};
+  testando();
